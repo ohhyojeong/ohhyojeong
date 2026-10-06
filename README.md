@@ -25,7 +25,7 @@
     </div>
     
 ## Featured Projects
-**
+
 ### 📔 Diary App
 A React-based diary application with user management and CRUD features.
 
@@ -34,4 +34,4 @@ A Python-based university life simulation game inspired by Princess Maker, devel
 
 ### 🚗 Alpha Project — MUVO
 A research-based project exploring future vehicle scene prediction using the MUVO framework.
-**
+
