@@ -3,7 +3,7 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> Future Mobility Engineering Student</li><li>  Interested in AI & Autonomous Driving</li><li>  Currently learning Full stack Process</li> </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> Future Mobility Engineering Student</li><li>  Interested in AI & Autonomous Driving</li><li>  Currently strengthening my programming fundamentals through Full-stack Development</li> </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
